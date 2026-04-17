@@ -1,4 +1,4 @@
-# An-lisis-RSU-en-M-xico
+# Análisis-RSU-en-México
 Trazabilidad de RSU de acuerdo a información disponible 
 
 El proyecto tienen como objetivo analizar la información disponible acerca del manejo y trazabilidad de los RSU en México
