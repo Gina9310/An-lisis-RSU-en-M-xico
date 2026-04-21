@@ -52,13 +52,16 @@ Tratamiento de valores faltantes
 
 Análisis exploratorio
 
-Tendencias temporales
-
 Comparación entre estados
+- Elaboración de gaficos que presentan por estado:
+-   - % de servicio de recolección de RSU.
+    - Cantidad diaria de Recolección de RSU.
+    - Número de prestadores de servicio de recolección de RSU
+    - Gráfico que compara la recolección diaria de RSU, el % de aportación del PIB y densidad poblacional
 
-Gráficos de barras y líneas
+Se determino que cantidad de RSU van a ET, PT y disposición final.
 
-
+    
 ## Conclusiones:
 - No existe información disponible acerca de la generación de RSU por Entidad.
 
