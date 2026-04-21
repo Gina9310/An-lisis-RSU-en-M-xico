@@ -96,7 +96,7 @@ El gráfico anterior presenta el número de servicios registrados que, puede no 
 - Número de prestadores de servicio de recolección de RSU
  ![Cobertura con servicio RSU](https://github.com/Gina9310/An-lisis-RSU-en-M-xico/blob/main/figura_4.png)
 
-El gráico muestra el numero de prestadores de servicio de Recolección, con comportamiento similar al gráfico de número de servicios de recolección.
+El gráfico muestra el número de prestadores de servicio de Recolección, con comportamiento similar al gráfico de número de servicios de recolección.
 
 - No existe relación entre número de municipios y cantidad recolectada de RSU.
   ![Recolección promedio diaria RSU](https://github.com/Gina9310/An-lisis-RSU-en-M-xico/blob/main/figura_3.png)
@@ -105,7 +105,7 @@ El gráfico muestra la cantidad de RSU recolectados (ojo!, no generados). Podrí
   
 ![Relación entre indicadores](https://github.com/Gina9310/An-lisis-RSU-en-M-xico/blob/main/figura_5.png)
 
-- Existe una relación entre la actividad economica y la cantidad promedio recolectada al día. Estados con mayor aportación al PIB presentan mayor cantidad de RSU recolectados. Los estados que más cantidad de RSU recolectan son la Ciudad de México, México, Jalisco, Nuevo León, Puebla, Veracruz, Guanajuato y coincide con los estados que más aportan al PIB, lo cual quiere decir que existe más una relación de la cantidad de recolección de RSU con las actividades economicas que con la densidad poblacional.
+- Existe una relación entre la actividad económica y la cantidad promedio recolectada al día. Estados con mayor aportación al PIB presentan mayor cantidad de RSU recolectados. Los estados que más cantidad de RSU recolectan son la Ciudad de México, México, Jalisco, Nuevo León, Puebla, Veracruz, Guanajuato y coincide con los estados que más aportan al PIB, lo cual quiere decir que existe más una relación de la cantidad de recolección de RSU con las actividades economicas que con la densidad poblacional.
 
 - únicamente 11 Estados cuentan con estaciones de transferencia.
 
