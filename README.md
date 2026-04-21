@@ -19,7 +19,47 @@ El proyecto tienen como objetivo analizar la información disponible acerca del 
   - pandas
   - matplotlib
 
-## HALLAZGOS:
+## Datos
+Fuente principal: Censo Nacional de Gobiernos Municipales y Demarcaciones Territoriales de la Ciudad de México (CNGMD), específicamente su módulo de Residuos Sólidos Urbanos 
+
+Variables clave:
+
+Servicios de Recolección de RSU por Estado
+
+Promedio diario de RSU recolectados por Estado
+
+Prestadores de servicio de Recolección de RSU por Estado
+
+Densidad poblacional 2020
+
+PIB 2021
+
+Existencia de Programas en materia de Gestión de Residuos por Estado
+
+Estaciones de transferencia (cantidad de RSU que van a ET por Estado)
+
+Plantas de tratamiento (cantidad de RSU que van a PT por Estado)
+
+Sitios de disposición final (cantidad de RSU que van a SDP por Estado)
+ 
+## Metodología
+
+Limpieza de datos
+
+Normalización de nombres de columnas
+
+Tratamiento de valores faltantes
+
+Análisis exploratorio
+
+Tendencias temporales
+
+Comparación entre estados
+
+Gráficos de barras y líneas
+
+
+## Conclusiones:
 - No existe información disponible acerca de la generación de RSU por Entidad.
 
 - Existe una relación entre número de municipios de cada Estado con la cantidad de servicios de recolección, Estados con mayor número de municipios mayor número de servicios de recolección.
