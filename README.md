@@ -18,6 +18,18 @@ El proyecto tienen como objetivo analizar la información disponible acerca del 
 - Librerías:
   - pandas
   - matplotlib
+    
+## Objetivo
+Explorar la relación entre la recolección y manejo de RSU con variables como:
+
+
+Número de municipios con servicios de recolección se RSU
+Recolección promedio diaria de RSU
+Prestadores de servicios de recolección
+Producto Interno Bruto (PIB)
+Densidad poblacional
+
+
 
 ## Datos
 Fuente principal: Censo Nacional de Gobiernos Municipales y Demarcaciones Territoriales de la Ciudad de México (CNGMD), específicamente su módulo de Residuos Sólidos Urbanos 
@@ -41,13 +53,19 @@ Estaciones de transferencia (cantidad de RSU que van a ET por Estado)
 Plantas de tratamiento (cantidad de RSU que van a PT por Estado)
 
 Sitios de disposición final (cantidad de RSU que van a SDP por Estado)
+
+
  
 ## Metodología
 
 Limpieza de datos
+  - Tratamiento de nulos
 
-Normalización de nombres de columnas
-
+Selección de variables
+  -Cantidad promedio de rSU recolectados
+  -Número de prestadores de servicios de recoleccion de RSU
+  -%de cobertura de recoleccion de RSU
+  
 Tratamiento de valores faltantes
 
 Análisis exploratorio
