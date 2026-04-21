@@ -63,25 +63,22 @@ Limpieza de datos
   - Tratamiento de nulos
 
 Selección de variables
-  -Cantidad promedio de rSU recolectados
+  -Cantidad promedio de RSU recolectados
   -Número de prestadores de servicios de recoleccion de RSU
-  -%de cobertura de recoleccion de RSU
+  -% de cobertura de recoleccion de RSU
   
 Tratamiento de valores faltantes
+-Se eliminaron aquellas filas con valores faltantes (no capturados) o con especificaciones tipo NA ND (no aplica, no disponible)
 
 Análisis exploratorio
 
 Comparación entre estados
-- Elaboración de gaficos que presentan por estado:
+- Elaboración de gráficos que presentan por estado:
     - % de servicio de recolección de RSU: 93 % de los estados tienen cobertura de mas de 95% de servicios de recolección de RSU en sus municipios.
     - Cantidad diaria de Recolección de RSU: Aún cuanto Oaxaca y Chiapas sean los Estados con mayor numero de servicios de recolección, no son precisamente los Estados con mayor cantidad de RSU recolectados diariamente, esta tendencia podría estar   marcada tanto por la población en cada Estado como por su actividad Económica. Los Estados con mayor recolección diaria son la Ciudad de México (16,000 ton), México (12,000 Ton), Jalisco(9,000 Ton), Nuevo León, Puebla, Veracruz, Guanajuato.
     - Número de prestadores de servicio de recolección de RSU: Oaxaca y Puebla tienen cerca de 400 y 250 prestadores de servicio. 
     - Gráfico que compara la recolección diaria de RSU, el % de aportación del PIB y densidad poblacional, mismo que presenta la relación que hay entre cantidad recolectada y aportación al PIB.
 
-Se determino que cantidad de RSU van a ET, PT y disposición final: En méxico más del 93% de los residuos van directo a disposición final
-
-    
-## Conclusiones:
 - No existe información disponible acerca de la generación de RSU por Entidad.
 
 - Existe una relación entre número de municipios de cada Estado con la cantidad de servicios de recolección, Estados con mayor número de municipios mayor número de servicios de recolección.
@@ -115,6 +112,9 @@ El gráfico muestra la cantidad de RSU recolectados (ojo!, no generados). Podrí
   ![Distribución de los RSU a estaciones, plantas tratamiento y sitios de disposición final](https://github.com/Gina9310/An-lisis-RSU-en-M-xico/blob/main/figura_6.png)
 
   ¿Qué pasa con los RSU después de ser recolectados?
-Una porción va a Estaciones de transferencia(ET). Una ET es un lugar donde se traspasan de las unidades de recolección a vehículos de mayor capacidad, para su traslado a las plantas de tratamiento o a los sitios de disposición final.Algunos residuos suelen ser separados para reciclaje. En méxico, en 2022 se recolectaron un promedio diario de 108,146 Ton, del cual un promedio diario de 1,254 Ton de RSU se separon en ET para ser reciclados y 5,661 (promedio diario) se enviaron a Plantas de tratamiento. por lo que se concluye que en méxico más del 93% de los residuos van directo a disposición final. El gráfico muestra por Estado la distribución de lso RSU recolectados.
+Una porción va a Estaciones de transferencia(ET). Una ET es un lugar donde se traspasan de las unidades de recolección a vehículos de mayor capacidad, para su traslado a las plantas de tratamiento o a los sitios de disposición final.Algunos residuos suelen ser separados para reciclaje. En méxico, en 2022 se recolectaron un promedio diario de 108,146 Ton, del cual un promedio diario de 1,254 Ton de RSU se separon en ET para ser reciclados y 5,661 (promedio diario) se enviaron a Plantas de tratamiento. por lo que se concluye que en méxico el 93% de los residuos se destinan a disposición final, lo que evidencia una baja eficiencia en el aprovechamiento de residuos.
 
-  
+
+## Conslusión
+
+El análisis muestra que la generación de residuos sólidos urbanos está asociada al desarrollo económico, observándose una relación positiva entre el PIB y los RSU recolectados. Asimismo, se identifica que la mayor parte de los residuos (93%) se destina a disposición final, lo que evidencia limitaciones en el reciclaje y tratamiento. Estos resultados sugieren la necesidad de fortalecer políticas públicas orientadas a la gestión sostenible de residuos.
