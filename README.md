@@ -97,8 +97,9 @@ Se determino que cantidad de RSU van a ET, PT y disposición final.
 
 - No existe relación entre número de municipios y cantidad recolectada de RSU.
   ![Recolección promedio diaria RSU](https://github.com/Gina9310/An-lisis-RSU-en-M-xico/blob/main/figura_3.png)
-- En méxico más del 93% de los residuos van directo a disposición final.
-
-- únicamente 11 Estados cuentancon estaciones de transferencia.
+- únicamente 11 Estados cuentan con estaciones de transferencia.
 
 - 19 Estados cuentan con plantas de tratamiento de RSU.
+
+- En méxico más del 93% de los residuos van directo a disposición final.
+  ![Distribución de los RSU a estaciones, plantas tratamiento y sitios de disposición final](https://github.com/Gina9310/An-lisis-RSU-en-M-xico/blob/main/figura_3.png)
