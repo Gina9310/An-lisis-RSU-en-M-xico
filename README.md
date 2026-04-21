@@ -86,10 +86,17 @@ Se determino que cantidad de RSU van a ET, PT y disposición final.
 - Existe una relación entre número de municipios de cada Estado con la cantidad de servicios de recolección, Estados con mayor número de municipios mayor número de servicios de recolección.
   ![Municipios con servicio RSU](https://github.com/Gina9310/An-lisis-RSU-en-M-xico/blob/main/figura.png)
 
+- 93 % de los estados tienen cobertura de mas de 95% de servicios de recolección de RSU en sus municipios
+  ![Cobertura con servicio RSU](https://github.com/Gina9310/An-lisis-RSU-en-M-xico/blob/main/figura_2.png)
+- Número de prestadores de servicio de recolección de RSU
+ ![Cobertura con servicio RSU](https://github.com/Gina9310/An-lisis-RSU-en-M-xico/blob/main/figura_4.png)
+
 - Existe una relación entre la actividad economica y la cantidad promedio recolectada al día. Estados con mayor aportación al PIB presentan mayor cantidad de RSU recolectados. Los estados que más cantidad de RSU recolectan son la Ciudad de México, México, Jalisco, Nuevo León, Puebla, Veracruz, Guanajuato y coincide con los estados que más aportan al PIB, lo cual quiere decir que existe más una relación de la cantidad de recolección de RSU con las actividades economicas que con la densidad poblacional.
+- 
+![Relación entre indicadores](https://github.com/Gina9310/An-lisis-RSU-en-M-xico/blob/main/figura_5.png)
 
 - No existe relación entre número de municipios y cantidad recolectada de RSU.
-
+  ![Recolección promedio diaria RSU](https://github.com/Gina9310/An-lisis-RSU-en-M-xico/blob/main/figura_3.png)
 - En méxico más del 93% de los residuos van directo a disposición final.
 
 - únicamente 11 Estados cuentancon estaciones de transferencia.
