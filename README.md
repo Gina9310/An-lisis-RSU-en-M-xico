@@ -23,10 +23,10 @@ El proyecto tienen como objetivo analizar la información disponible acerca del 
 Explorar la relación entre la recolección y manejo de RSU con variables como:
 
 
-Número de municipios con servicios de recolección se RSU
-Recolección promedio diaria de RSU
-Prestadores de servicios de recolección
-Producto Interno Bruto (PIB)
+Número de municipios con servicios de recolección se RSU,
+Recolección promedio diaria de RSU,
+Prestadores de servicios de recolección,
+Producto Interno Bruto (PIB) y
 Densidad poblacional
 
 
@@ -57,6 +57,7 @@ Sitios de disposición final (cantidad de RSU que van a SDP por Estado)
 
  
 ## Metodología
+Exportación de base de datos, dado que por año vienen cierta información se seleccionó aquella información relevante a analizar: cantidad recolectada, número de prestadores de servicio, cantidad o porcentaje de RSU que llegan a estaciones de transferencias y a plantas de tratamiento. Se analizó y se depuró la información de manera seccionada.
 
 Limpieza de datos
   - Tratamiento de nulos
@@ -72,12 +73,12 @@ Análisis exploratorio
 
 Comparación entre estados
 - Elaboración de gaficos que presentan por estado:
--   - % de servicio de recolección de RSU.
-    - Cantidad diaria de Recolección de RSU.
-    - Número de prestadores de servicio de recolección de RSU
-    - Gráfico que compara la recolección diaria de RSU, el % de aportación del PIB y densidad poblacional
+    - % de servicio de recolección de RSU: 93 % de los estados tienen cobertura de mas de 95% de servicios de recolección de RSU en sus municipios.
+    - Cantidad diaria de Recolección de RSU: Aún cuanto Oaxaca y Chiapas sean los Estados con mayor numero de servicios de recolección, no son precisamente los Estados con mayor cantidad de RSU recolectados diariamente, esta tendencia podría estar   marcada tanto por la población en cada Estado como por su actividad Económica. Los Estados con mayor recolección diaria son la Ciudad de México (16,000 ton), México (12,000 Ton), Jalisco(9,000 Ton), Nuevo León, Puebla, Veracruz, Guanajuato.
+    - Número de prestadores de servicio de recolección de RSU: Oaxaca y Puebla tienen cerca de 400 y 250 prestadores de servicio. 
+    - Gráfico que compara la recolección diaria de RSU, el % de aportación del PIB y densidad poblacional, mismo que presenta la relación que hay entre cantidad recolectada y aportación al PIB.
 
-Se determino que cantidad de RSU van a ET, PT y disposición final.
+Se determino que cantidad de RSU van a ET, PT y disposición final: En méxico más del 93% de los residuos van directo a disposición final
 
     
 ## Conclusiones:
